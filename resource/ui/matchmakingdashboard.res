@@ -506,97 +506,11 @@
 			"bgcolor_override"						"255 0 0 0"
 		}
 		
-		"QuitButton2"
-		{
-			"ControlName"							"CExImageButton"
-			"fieldName"								"QuitButton2"
-			"xpos"									"23"
-			"ypos"									"0"
-			"zpos"									"100"
-			"wide"									"26"
-			"tall"									"22"
-			"autoResize"							"0"
-			"pinCorner"								"3"
-			"visible"								"1"
-			"enabled"								"1"
-			"tabPosition"							"0"
-			"font"									"Symbols 18"
-			"textAlignment"							"center"
-			"dulltext"								"0"
-			"brighttext"							"0"
-			"Command"								"quit"
-			"proportionaltoparent"					"1"
-			"labeltext"								"b"
-			"mouseinputenabled"						"1"
-			"keyboardinputenabled"					"0"
-			"actionsignallevel"						"2"
-			"RoundedCorners"						"0"
-
-			"paintbackground"						"0"
-		
-			"sound_depressed"						"UI/buttonclick.wav"
-			"sound_released"						"UI/buttonclickrelease.wav"
-			
-			"border_default"						"MaterialGrayDarker"
-			"border_armed"							"MaterialRed"
-			
-			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"White"
-			"depressedFgColor_override" 			"White"
-			
-			"pin_to_sibling" 						"DashboardAnchor"
-			"pin_corner_to_sibling" 				"PIN_TOPRIGHT"
-			"pin_to_sibling_corner" 				"PIN_TOPRIGHT"
-		}
-		
-		"DisconnectButton"
-		{
-			"ControlName"							"CExImageButton"
-			"fieldName"								"DisconnectButton"
-			"xpos"									"23"
-			"ypos"									"0"
-			"zpos"									"100"
-			"wide"									"26"
-			"tall"									"22"
-			"autoResize"							"0"
-			"pinCorner"								"3"
-			"visible"								"1"
-			"enabled"								"1"
-			"tabPosition"							"0"
-			"font"									"Symbols 18"
-			"textAlignment"							"center"
-			"dulltext"								"0"
-			"brighttext"							"0"
-			"Command"								"quit"
-			"proportionaltoparent"					"1"
-			"labeltext"								"b"
-			"mouseinputenabled"						"1"
-			"keyboardinputenabled"					"0"
-			"actionsignallevel"						"2"
-			"RoundedCorners"						"0"
-
-			"paintbackground"						"0"
-		
-			"sound_depressed"						"UI/buttonclick.wav"
-			"sound_released"						"UI/buttonclickrelease.wav"
-			
-			"border_default"						"MaterialGrayDarker"
-			"border_armed"							"MaterialRed"
-			
-			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"White"
-			"depressedFgColor_override" 			"White"
-			
-			"pin_to_sibling" 						"DashboardAnchor"
-			"pin_corner_to_sibling" 				"PIN_TOPRIGHT"
-			"pin_to_sibling_corner" 				"PIN_TOPRIGHT"
-		}
-		
 		"FindAGameButton2"
 		{
 			"ControlName"							"CExImageButton"
 			"fieldName"								"FindAGameButton2"
-			"xpos"									"0"
+			"xpos"									"23"
 			"ypos"									"0"
 			"zpos"									"100"
 			"wide"									"26"

@@ -28,3 +28,4 @@
 ///////////////////////////////////////////
 
 #base "../resource/scheme/crosshairs.res"
+"#base"		"clientscheme_yahud-cmyk.res"
