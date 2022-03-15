@@ -12,7 +12,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"additive"									"0"
 				"antialias"									"1"
@@ -22,7 +22,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"additive"									"0"
 				"antialias"									"1"
@@ -32,7 +32,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"15"
 				"additive"									"0"
 				"antialias"									"1"
@@ -42,7 +42,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"16"
 				"additive"									"0"
 				"antialias"									"1"
@@ -52,7 +52,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias"									"1"
@@ -62,7 +62,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"20"
 				"additive"									"0"
 				"antialias"									"1"
@@ -72,7 +72,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"22"
 				"additive"									"0"
 				"antialias"									"1"
@@ -82,7 +82,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias"									"1"
@@ -92,7 +92,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"30"
 				"additive"									"0"
 				"antialias"									"1"
@@ -102,7 +102,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"40"
 				"additive"									"0"
 				"antialias"									"1"
@@ -113,7 +113,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"additive"									"0"
 				"antialias"									"1"
@@ -124,7 +124,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"additive"									"0"
 				"antialias"									"1"
@@ -135,7 +135,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"15"
 				"additive"									"0"
 				"antialias"									"1"
@@ -146,7 +146,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"16"
 				"additive"									"0"
 				"antialias"									"1"
@@ -157,7 +157,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias"									"1"
@@ -168,7 +168,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"20"
 				"additive"									"0"
 				"antialias"									"1"
@@ -179,7 +179,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"22"
 				"additive"									"0"
 				"antialias"									"1"
@@ -190,7 +190,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias"									"1"
@@ -201,7 +201,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"30"
 				"additive"									"0"
 				"antialias"									"1"
@@ -212,7 +212,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"40"
 				"additive"									"0"
 				"antialias"									"1"
@@ -224,7 +224,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias"									"1"
@@ -235,7 +235,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"22"
 				"additive"									"0"
 				"antialias"									"1"
@@ -246,7 +246,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias"									"1"
@@ -257,7 +257,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"28"
 				"additive"									"0"
 				"antialias"									"1"
@@ -269,7 +269,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias"									"1"
@@ -280,7 +280,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"22"
 				"additive"									"0"
 				"antialias"									"1"
@@ -291,7 +291,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"28"
 				"additive"									"0"
 				"antialias"									"1"
@@ -333,7 +333,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"additive"									"0"
 				"antialias"									"1"
@@ -343,7 +343,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"additive"									"0"
 				"antialias"									"1"
@@ -353,7 +353,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"additive"									"0"
 				"antialias"									"1"
@@ -363,7 +363,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"additive"									"0"
 				"antialias"									"1"
@@ -373,7 +373,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"15"
 				"additive"									"0"
 				"antialias"									"1"
@@ -383,7 +383,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"16"
 				"additive"									"0"
 				"antialias"									"1"
@@ -393,7 +393,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias"									"1"
@@ -403,7 +403,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"20"
 				"additive"									"0"
 				"antialias"									"1"
@@ -413,7 +413,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"22"
 				"additive"									"0"
 				"antialias"									"1"
@@ -423,7 +423,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias"									"1"
@@ -433,7 +433,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"28"
 				"additive"									"0"
 				"antialias"									"1"
@@ -443,7 +443,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"30"
 				"additive"									"0"
 				"antialias"									"1"
@@ -453,7 +453,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"36"
 				"additive"									"0"
 				"antialias"									"1"
@@ -463,7 +463,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"40"
 				"additive"									"0"
 				"antialias"									"1"
@@ -473,7 +473,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"44"
 				"additive"									"0"
 				"antialias"									"1"
@@ -495,7 +495,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"additive"									"0"
 				"antialias"									"1"
@@ -506,7 +506,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"additive"									"0"
 				"antialias"									"1"
@@ -517,7 +517,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"additive"									"0"
 				"antialias"									"1"
@@ -528,7 +528,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"additive"									"0"
 				"antialias"									"1"
@@ -539,7 +539,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"16"
 				"additive"									"0"
 				"antialias"									"1"
@@ -550,7 +550,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias"									"1"
@@ -561,7 +561,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"20"
 				"additive"									"0"
 				"antialias"									"1"
@@ -572,7 +572,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias"									"1"
@@ -583,7 +583,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"30"
 				"additive"									"0"
 				"antialias"									"1"
@@ -594,7 +594,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"36"
 				"additive"									"0"
 				"antialias"									"1"
@@ -605,7 +605,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"40"
 				"additive"									"0"
 				"antialias"									"1"
@@ -618,7 +618,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"additive"									"0"
 				"antialias"									"1"
@@ -629,7 +629,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"additive"									"0"
 				"antialias"									"1"
@@ -641,7 +641,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Numbers"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"additive"									"0"
 				"antialias"									"1"
@@ -651,7 +651,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Numbers"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"additive"									"0"
 				"antialias"									"1"
@@ -674,7 +674,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"weight"									"0"
 				"additive"									"0"
@@ -686,7 +686,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"weight"									"0"
 				"additive"									"0"
@@ -699,7 +699,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"weight"									"0"
 				"additive"									"0"
@@ -723,7 +723,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"0"
 				"additive"									"0"
@@ -736,8 +736,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium" 	[!$OSX]
-				"name"										"Rubik Medium" 	[$OSX]
+				"name"										"AvenirLTStd-Black" 	[!$OSX]
+				"name"										"AvenirLTStd-Black" 	[$OSX]
 				"tall"										"18"
 				"weight"									"0"
 				"antialias" 								"1"
@@ -770,7 +770,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -780,7 +780,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"44"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -791,7 +791,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"35"
 				"weight"									"500"
 				"additive"									"0"
@@ -803,7 +803,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"36"
 				"weight"									"500"
 				"additive"									"0"
@@ -814,7 +814,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"30"
 				"weight"									"500"
 				"additive"									"0"
@@ -825,7 +825,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"30"
 				"weight"									"500"
 				"additive"									"0"
@@ -836,7 +836,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -847,7 +847,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -858,7 +858,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -869,7 +869,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -880,7 +880,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -891,7 +891,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -902,7 +902,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -913,7 +913,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"16"
 				"weight"									"500"
 				"additive"									"0"
@@ -924,7 +924,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -935,7 +935,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -947,7 +947,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -958,7 +958,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -970,7 +970,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -981,7 +981,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"4"
 				"weight"									"500"
 				"additive"									"0"
@@ -992,7 +992,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
@@ -1003,7 +1003,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"16"
 				"weight"									"500"
 				"additive"									"0"
@@ -1014,7 +1014,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"9"
 				"weight"									"0"
 				"additive"									"0"
@@ -1025,7 +1025,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"9"
 				"weight"									"0"
 				"additive"									"0"
@@ -1047,7 +1047,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"weight"									"400"
 				"additive"									"0"
@@ -1058,7 +1058,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -1129,7 +1129,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -1140,7 +1140,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"16"
 				"weight"									"500"
 				"additive"									"0"
@@ -1162,7 +1162,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"9"
 				"weight"									"500"
 				"additive"									"0"
@@ -1195,7 +1195,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"15"
 				"weight"									"700"
 				"antialias" 								"1"
@@ -1205,7 +1205,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"15"
 				"weight"									"700"
 				"antialias" 								"1"
@@ -1215,7 +1215,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"900"
 				"antialias" 								"1"
@@ -1224,7 +1224,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"21"
 				"weight"									"900"
 				"antialias" 								"1"
@@ -1233,7 +1233,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"weight"									"1000"
 				"antialias" 								"1"
@@ -1300,7 +1300,7 @@ Scheme
 			}
 			"2"
 			{
-				"name" 								 		"Rubik Medium"
+				"name" 								 		"AvenirLTStd-Black"
 				"tall"  									"28"
 				"weight"									"0"
 				"additive" 									"1"
@@ -1311,7 +1311,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -1322,7 +1322,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -1333,7 +1333,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -1344,7 +1344,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -1355,7 +1355,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"16"
 				"weight"									"500"
 				"additive"									"0"
@@ -1390,7 +1390,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"antialias" 								"1"
 				"weight"									"500"
@@ -1400,7 +1400,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"antialias" 								"1"
 				"weight"									"500"
@@ -1410,7 +1410,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"antialias" 								"1"
 				"weight"									"500"
@@ -1421,7 +1421,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"13"
 				"weight"									"800"
 				"additive"									"0"
@@ -1433,7 +1433,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"28"
 				"antialias"									"1" 
 				"custom"									"1" 	[$OSX]
@@ -1444,7 +1444,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"40"
 				"antialias"									"1"
 				"custom"									"1" 	[$OSX]
@@ -1455,7 +1455,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"antialias" 								"1"
 				"custom"									"1" 	[$OSX]
@@ -1466,7 +1466,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14" 	[!$OSX]
 				"tall"										"15" 	[$OSX]
 				"antialias"									"1"
@@ -1500,7 +1500,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -1511,7 +1511,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1523,7 +1523,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1535,7 +1535,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1547,7 +1547,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1559,7 +1559,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1571,7 +1571,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"34"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1584,7 +1584,7 @@ Scheme
  		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"36"
 				"weight"									"500"
 				"additive"									"0"
@@ -1595,7 +1595,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"52"
 				"range" 									"0x0000 0x00FF"
 				"weight"									"400"
@@ -1604,7 +1604,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"72"
 				"range" 									"0x0000 0x00FF"
 				"weight"									"400"
@@ -1613,7 +1613,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"100"
 				"range" 									"0x0000 0x00FF"
 				"weight"									"400"
@@ -1622,7 +1622,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"140"
 				"range" 									"0x0000 0x00FF"
 				"weight"									"400"
@@ -1631,7 +1631,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"180"
 				"range" 									"0x0000 0x00FF"
 				"weight"									"400"
@@ -1643,7 +1643,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"36"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1655,7 +1655,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -1666,7 +1666,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"20"
 				"weight"									"400"
 				"additive"									"0"
@@ -1677,7 +1677,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -1688,7 +1688,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -1711,7 +1711,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -1723,7 +1723,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"weight"									"700"
 				"yres"										"480 599"
@@ -1731,7 +1731,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"13"
 				"weight"									"700"
 				"yres"										"600 767"
@@ -1739,7 +1739,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"700"
 				"yres"										"768 1023"
@@ -1747,7 +1747,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"20"
 				"weight"									"700"
 				"yres"										"1024 1199"
@@ -1755,7 +1755,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"weight"									"700"
 				"yres"										"1200 10000"
@@ -1766,7 +1766,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"weight"									"700"
 				"yres"										"480 599"
@@ -1774,7 +1774,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"13"
 				"weight"									"700"
 				"yres"										"600 767"
@@ -1782,7 +1782,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"700"
 				"yres"										"768 1023"
@@ -1790,7 +1790,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"20"
 				"weight"									"700"
 				"yres"										"1024 1199"
@@ -1798,7 +1798,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"weight"									"700"
 				"yres"										"1200 10000"
@@ -1809,7 +1809,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"700"
 				"yres"										"480 599"
@@ -1817,7 +1817,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"700"
 				"yres"										"600 767"
@@ -1825,7 +1825,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"13"
 				"weight"									"700"
 				"yres"										"768 1023"
@@ -1833,7 +1833,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"700"
 				"yres"										"1024 1199"
@@ -1841,7 +1841,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"15"
 				"weight"									"700"
 				"yres"										"1200 10000"
@@ -1865,7 +1865,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"range" 									"0x0000 0x00FF"
 				"weight"									"300"
@@ -1876,7 +1876,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"weight"									"500"
 				"range"										"0x0000 0x017F"
@@ -1912,7 +1912,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"9"
 				"weight"									"400"
 				"additive"									"0"
@@ -1924,7 +1924,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"  	[!$OSX]
 				"tall"										"9"  	[$OSX]
 				"weight"									"800"
@@ -1937,7 +1937,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"36"
 				"weight"									"500"
 			}
@@ -1946,7 +1946,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"30"
 				"weight"									"500"
 			}
@@ -1955,7 +1955,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"28"
 				"weight"									"500"
 			}
@@ -1982,7 +1982,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"22"
 				"weight"									"500"
 			}
@@ -1991,7 +1991,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"500"
 			}
@@ -2000,7 +2000,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"22"
 				"weight"									"900"
 			}
@@ -2009,7 +2009,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"900"
 			}
@@ -2018,7 +2018,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"15"
 				"weight"									"900"
 			}
@@ -2028,7 +2028,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"36"
 				"weight"									"500"
 				"additive"									"0"
@@ -2039,7 +2039,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"weight"									"600"
 				"additive"									"0"
@@ -2050,7 +2050,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"400"
 				"additive"									"0"
@@ -2071,7 +2071,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"600"
 				"additive"									"0"
@@ -2082,7 +2082,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
@@ -2093,7 +2093,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"9"
 				"weight"									"400"
 				"additive"									"0"
@@ -2106,7 +2106,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2115,7 +2115,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2124,7 +2124,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"15"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2159,7 +2159,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"weight"									"500"
 				"additive"									"0"
@@ -2170,7 +2170,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -2213,7 +2213,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -2224,7 +2224,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -2236,7 +2236,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"9"
 				"weight"									"500"
 				"additive"									"0"
@@ -2247,7 +2247,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"9"
 				"weight"									"500"
 				"blur"										"3"
@@ -2314,7 +2314,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"400"
 				"yres"										"480 599"
@@ -2323,7 +2323,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -2332,7 +2332,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"400"
 				"additive"									"0"
@@ -2345,7 +2345,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"800"
 				"yres"										"480 599"
@@ -2354,7 +2354,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"800"
 				"additive"									"0"
@@ -2363,7 +2363,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"800"
 				"additive"									"0"
@@ -2376,7 +2376,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"16"
 				"weight"									"400"
 				"additive"									"0"
@@ -2388,7 +2388,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"20"
 				"antialias" 								"1"
 				"custom"									"1" 	[$OSX]
@@ -2400,7 +2400,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"400"
 				"yres"										"480 599"
@@ -2409,7 +2409,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -2418,7 +2418,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"22"
 				"weight"									"400"
 				"additive"									"0"
@@ -2431,7 +2431,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"400"
 				"yres"										"480 599"
@@ -2441,7 +2441,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -2451,7 +2451,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"22"
 				"weight"									"400"
 				"additive"									"0"
@@ -2465,7 +2465,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"800"
 				"yres"										"480 599"
@@ -2474,7 +2474,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"800"
 				"additive"									"0"
@@ -2483,7 +2483,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"800"
 				"additive"									"0"
@@ -2496,7 +2496,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"13"
 				"weight"									"400"
 				"additive"									"0"
@@ -2508,7 +2508,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"16"
 				"weight"									"400"
 				"additive"									"0"
@@ -2520,7 +2520,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -2582,7 +2582,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2590,7 +2590,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2598,7 +2598,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2607,7 +2607,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2616,7 +2616,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"16"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2628,7 +2628,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -2639,7 +2639,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2647,7 +2647,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"13"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2655,7 +2655,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2664,7 +2664,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"20"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2673,7 +2673,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"22"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2692,7 +2692,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -2703,7 +2703,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -2714,7 +2714,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -2725,7 +2725,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -2736,7 +2736,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -2751,7 +2751,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -2762,7 +2762,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -2774,7 +2774,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"15"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -2787,7 +2787,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"9"
 				"weight"									"400"
 				"additive"									"0"
@@ -2799,7 +2799,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"weight"									"500"
 				"antialias" 								"1"
@@ -2810,7 +2810,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"weight"									"500"
 				"blur"										"3"
@@ -2823,7 +2823,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"weight"									"500"
 				"additive"									"0"
@@ -2861,7 +2861,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -2873,7 +2873,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -2885,7 +2885,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Rubik Medium"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"30"
 				"weight"									"400"
 				"additive"									"0"
@@ -2909,7 +2909,7 @@ Scheme
 		"22"
 		{
 			"font" 		"resource/scheme/fonts/rubik-semibold.otf"
-			"name" 		"Rubik SemiBold"
+			"name" 		"Rubik Semibold"
 		}
 		"23"
 		{
