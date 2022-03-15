@@ -270,6 +270,7 @@ Scheme
 				"tall_hidef" "20"
 				"weight"	 "0"
 				"outline"	 "1"
+				"antialias"	 "1"
 			}
 		}
 		"Default"
@@ -280,6 +281,7 @@ Scheme
 				"name"		"Verdana" [$POSIX]
 				"tall"		"16"
 				"weight"	"500"
+				"antialias"	"1"
 			}
 		}
 		"DefaultBold"
@@ -290,6 +292,7 @@ Scheme
 				"name"		"Verdana Bold" [$POSIX]
 				"tall"		"16"
 				"weight"	"1000"
+				"antialias"		"1"
 			}
 		}
 		"DefaultUnderline"
@@ -301,6 +304,7 @@ Scheme
 				"tall"		"16"
 				"weight"	"500"
 				"underline" "1"
+				"antialias"	"1"
 			}
 		}
 		"DefaultSmall"
@@ -312,6 +316,7 @@ Scheme
 				"tall"		"12" [!$POSIX]
 				"tall"		"13" [$POSIX]
 				"weight"	"0"
+				"antialias"	"1"
 			}
 		}
 		"DefaultSmallDropShadow"
@@ -323,6 +328,7 @@ Scheme
 				"tall"		"13"
 				"weight"	"0"
 				"dropshadow" "1"
+				"antialias"	"1"
 			}
 		}
 		"DefaultVerySmall"
@@ -333,6 +339,7 @@ Scheme
 				"name"		"Verdana" [$POSIX]
 				"tall"		"12"
 				"weight"	"0"
+				"antialias"	"1"
 			}
 		}
 
@@ -344,6 +351,7 @@ Scheme
 				"name"		"Verdana" [$POSIX]
 				"tall"		"18"
 				"weight"	"0"
+				"antialias"	"1"
 			}
 		}
 		"UiBold"
@@ -354,6 +362,7 @@ Scheme
 				"name"		"Verdana" [$POSIX]
 				"tall"		"12"
 				"weight"	"1000"
+				"antialias"	"1"
 			}
 			"1"	[$X360]
 			{
@@ -361,6 +370,7 @@ Scheme
 				"tall"		"24"
 				"weight"	"2000"
 				"outline"	"1"
+				"antialias"	"1"
 			}
 		}
 		"ChapterTitle"	[$X360]
@@ -372,6 +382,7 @@ Scheme
 				"tall_hidef"	"28"
 				"weight"		"2000"
 				"outline"		"1"
+				"antialias"		"1"
 			}
 		}
 		"ChapterTitleBlur"	[$X360]
@@ -384,6 +395,7 @@ Scheme
 				"weight"		"2000"
 				"blur"			"3"
 				"blur_hidef"	"5"
+				"antialias"		"1"
 			}
 		}
 		"MenuLarge"
@@ -470,6 +482,7 @@ Scheme
 				"scaley_hidef"	"1.0"
 				"scalex_lodef"	"0.75"
 				"scaley_lodef"	"0.75"
+				"antialias"	"1"
 			}
 		}
 		"ConsoleText"
@@ -483,6 +496,7 @@ Scheme
 				"tall"		"14" [$LINUX]
 				"tall"		"10"
 				"weight"	"500"
+				"antialias"		"1"
 			}
 		}
 
@@ -495,6 +509,7 @@ Scheme
 				"tall"		"14"
 				"weight"	"0"
 				"symbol"	"1"
+				"antialias"	"1"
 			}
 		}
 
@@ -505,6 +520,7 @@ Scheme
 				"name"		"Trebuchet MS"
 				"tall"		"24"
 				"weight"	"900"
+				"antialias"	"1"
 			}
 		}
 
@@ -515,6 +531,7 @@ Scheme
 				"name"		"Trebuchet MS"
 				"tall"		"20"
 				"weight"	"900"
+				"antialias"	"1"
 			}
 		}
 
@@ -525,6 +542,7 @@ Scheme
 				"name"		"Trebuchet MS"
 				"tall"		"18"
 				"weight"	"900"
+				"antialias"	"1"
 			}
 		}
 
@@ -537,6 +555,7 @@ Scheme
 				"name"		"Trebuchet MS"
 				"tall"		"40"
 				"weight"	"900"
+				"antialias"	"1"
 			}
 		}
 		"HUDNumber1"
@@ -546,6 +565,7 @@ Scheme
 				"name"		"Trebuchet MS"
 				"tall"		"41"
 				"weight"	"900"
+				"antialias"	"1"
 			}
 		}
 		"HUDNumber2"
@@ -555,6 +575,7 @@ Scheme
 				"name"		"Trebuchet MS"
 				"tall"		"42"
 				"weight"	"900"
+				"antialias"	"1"
 			}
 		}
 		"HUDNumber3"
@@ -564,6 +585,7 @@ Scheme
 				"name"		"Trebuchet MS"
 				"tall"		"43"
 				"weight"	"900"
+				"antialias"	"1"
 			}
 		}
 		"HUDNumber4"
@@ -573,6 +595,7 @@ Scheme
 				"name"		"Trebuchet MS"
 				"tall"		"44"
 				"weight"	"900"
+				"antialias"	"1"
 			}
 		}
 		"HUDNumber5"
@@ -582,6 +605,7 @@ Scheme
 				"name"		"Trebuchet MS"
 				"tall"		"45"
 				"weight"	"900"
+				"antialias"	"1"
 			}
 		}
 		"DefaultFixed"
@@ -594,6 +618,7 @@ Scheme
 				"tall"		"11" [$POSIX]
 				"tall"		"10"
 				"weight"	"0"
+				"antialias"	"1"
 			}
 //			"1"
 //			{
@@ -616,6 +641,7 @@ Scheme
 				"tall"		"10"
 				"weight"	"0"
 				"dropshadow" "1"
+				"antialias"	"1"
 			}
 //			"1"
 //			{
@@ -633,6 +659,7 @@ Scheme
 				"name"		"Verdana" [$POSIX]
 				"tall"		"16"
 				"weight"	"500"
+				"antialias"	"1"
 			}
 		}
 		"CloseCaption_Italic"
@@ -644,6 +671,7 @@ Scheme
 				"tall"		"16"
 				"weight"	"500"
 				"italic"	"1"
+				"antialias"	"1"
 			}
 		}
 		"CloseCaption_Bold"
@@ -654,6 +682,7 @@ Scheme
 				"name"		"Verdana Bold" [$POSIX]
 				"tall"		"16"
 				"weight"	"900"
+				"antialias"	"1"
 			}
 		}
 		"CloseCaption_BoldItalic"
@@ -665,6 +694,7 @@ Scheme
 				"tall"		"16"
 				"weight"	"900"
 				"italic"	"1"
+				"antialias"	"1"
 			}
 		}
 
@@ -831,6 +861,7 @@ Scheme
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
+				"antialias"	"1"
 			}
 			"2"
 			{
@@ -839,6 +870,7 @@ Scheme
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
+				"antialias"	"1"
 			}
 			"3"
 			{
