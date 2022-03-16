@@ -16,23 +16,6 @@ event FlagOutline
 
 //====================================================================================================================
 
-event HudSpyDisguiseChanged
-{
-	Animate PlayerStatusSpyOutlineImage			Alpha		"255"								Linear 	0.0 	0.2
-	
-	Animate PlayerStatusSpyOutlineImage			Position	"60 r160"							Linear 	0.0 	0.2
-	Animate PlayerStatusSpyOutlineImage			Size		"100 100"							Linear 	0.0 	0.2
-
-	RunEvent HudSpyDisguiseHide					0.7
-}
-
-event HudSpyDisguiseHide
-{
-
-}
-
-//====================================================================================================================
-
 event HudTournamentSetupPanelOpen
 {
 	Animate HudTournamentSetup					Position	"-100 40"							Linear 	0.0 	0.001
