@@ -28,10 +28,7 @@ event HudSpyDisguiseChanged
 
 event HudSpyDisguiseHide
 {
-	Animate PlayerStatusSpyOutlineImage			Position	"0 r0"								Linear 	0.0 	0.2
-	Animate PlayerStatusSpyOutlineImage			Size		"0 0"								Linear 	0.0 	0.2
-	
-	Animate PlayerStatusSpyOutlineImage			Alpha		"0"									Linear 	0.2 	0.1
+
 }
 
 //====================================================================================================================
