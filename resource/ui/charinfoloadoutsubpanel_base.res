@@ -620,7 +620,7 @@
 	
 	
 	//////////////////////////SIDE BAR START/////////////////////////
-	
+
 	"CustomScoutSide"
 	{
 		"ControlName"								"CExImageButton"
@@ -637,19 +637,20 @@
 		"labelText"									"1"
 		"font"										"Class Symbols 18"
 		"textAlignment"								"center"
+		"textinsetx"								"0"
 		"use_proportional_insets" 					"1"
 		"dulltext"									"0"
 		"brighttext"								"0"
 		"default"									"0"
 		"Command"									"loadout scout"
-		
+
 		"paintbackground"							"0"
 		"paintborder"								"0"
-		
+
 		"defaultFgColor_override"					"GrayLight"
 		"armedFgColor_override" 					"WhiteGray"
 		"depressedFgColor_override" 				"GrayLight"
-		
+
 		"pin_to_sibling" 							"CustomSoldierSide"
 		"pin_corner_to_sibling" 					"PIN_BOTTOMLEFT"
 		"pin_to_sibling_corner" 					"PIN_TOPLEFT"
@@ -663,7 +664,7 @@
 		"Command"									"loadout scout"
 		"visible"									"1"
 	}
-	
+
 	"CustomSoldierSide"
 	{
 		"ControlName"								"CExImageButton"
@@ -680,20 +681,20 @@
 		"labelText"									"2"
 		"font"										"Class Symbols 18"
 		"textAlignment"								"center"
+		"textinsetx"								"0"
 		"use_proportional_insets" 					"1"
 		"dulltext"									"0"
 		"brighttext"								"0"
 		"default"									"0"
-		"paintbackground" 							"0"
 		"Command"									"loadout soldier"
-		
+
 		"paintbackground"							"0"
 		"paintborder"								"0"
-		
+
 		"defaultFgColor_override"					"GrayLight"
 		"armedFgColor_override" 					"WhiteGray"
 		"depressedFgColor_override" 				"GrayLight"
-		
+
 		"pin_to_sibling" 							"CustomPyroSide"
 		"pin_corner_to_sibling" 					"PIN_BOTTOMLEFT"
 		"pin_to_sibling_corner" 					"PIN_TOPLEFT"
@@ -707,7 +708,7 @@
 		"Command"									"loadout soldier"
 		"visible"									"1"
 	}
-	
+
 	"CustomPyroSide"
 	{
 		"ControlName"								"CExImageButton"
@@ -724,20 +725,21 @@
 		"labelText"									"3"
 		"font"										"Class Symbols 18"
 		"textAlignment"								"center"
+		"textinsetx"								"0"
 		"use_proportional_insets"					"1"
 		"dulltext"									"0"
 		"brighttext"								"0"
 		"default"									"0"
 		"paintbackground" 							"0"
 		"Command"									"loadout pyro"
-		
+
 		"paintbackground"							"0"
 		"paintborder"								"0"
-		
+
 		"defaultFgColor_override"					"GrayLight"
 		"armedFgColor_override" 					"WhiteGray"
 		"depressedFgColor_override" 				"GrayLight"
-		
+
 		"pin_to_sibling" 							"CustomDemomanSide"
 		"pin_corner_to_sibling" 					"PIN_BOTTOMLEFT"
 		"pin_to_sibling_corner" 					"PIN_TOPLEFT"
@@ -751,7 +753,7 @@
 		"Command"									"loadout pyro"
 		"visible"									"1"
 	}
-	
+
 	"CustomDemomanSide"
 	{
 		"ControlName"								"CExImageButton"
@@ -768,23 +770,24 @@
 		"labelText"									"4"
 		"font"										"Class Symbols 18"
 		"textAlignment"								"center"
+		"textinsetx"								"0"
 		"use_proportional_insets" 					"1"
 		"dulltext"									"0"
 		"brighttext"								"0"
 		"default"									"0"
 		"paintbackground" 							"0"
 		"Command"									"loadout demoman"
-		
+
 		"paintbackground"							"0"
 		"paintborder"								"0"
-		
+
 		"defaultFgColor_override"					"GrayLight"
 		"armedFgColor_override" 					"WhiteGray"
 		"depressedFgColor_override" 				"GrayLight"
 
 		"pin_to_sibling" 							"CustomHeavySide"
 		"pin_corner_to_sibling" 					"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner" 					"PIN_TOPLEFT"		
+		"pin_to_sibling_corner" 					"PIN_TOPLEFT"
 	}
 	"DemomanSelectNumber"
 	{
@@ -795,7 +798,7 @@
 		"Command"									"loadout demoman"
 		"visible"									"1"
 	}
-	
+
 	"CustomHeavySide"
 	{
 		"ControlName"								"CExImageButton"
@@ -820,10 +823,10 @@
 		"default"									"0"
 		"paintbackground" 							"0"
 		"Command"									"loadout heavy"
-		
+
 		"paintbackground"							"0"
 		"paintborder"								"0"
-		
+
 		"defaultFgColor_override"					"GrayLight"
 		"armedFgColor_override" 					"WhiteGray"
 		"depressedFgColor_override" 				"GrayLight"
@@ -837,7 +840,7 @@
 		"Command"									"loadout heavy"
 		"visible"									"1"
 	}
-	
+
 	"CustomEngineerSide"
 	{
 		"ControlName"								"CExImageButton"
@@ -854,20 +857,21 @@
 		"labelText"									"6"
 		"font"										"Class Symbols 18"
 		"textAlignment"								"center"
+		"textinsetx"								"0"
 		"use_proportional_insets" 					"1"
 		"dulltext"									"0"
 		"brighttext"								"0"
 		"default"									"0"
 		"paintbackground" 							"0"
 		"Command"									"loadout engineer"
-		
+
 		"paintbackground"							"0"
 		"paintborder"								"0"
-		
+
 		"defaultFgColor_override"					"GrayLight"
 		"armedFgColor_override" 					"WhiteGray"
 		"depressedFgColor_override" 				"GrayLight"
-		
+
 		"pin_to_sibling" 							"CustomHeavySide"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
@@ -881,7 +885,7 @@
 		"Command"									"loadout engineer"
 		"visible"									"1"
 	}
-	
+
 	"CustomMedicSide"
 	{
 		"ControlName"								"CExImageButton"
@@ -898,20 +902,21 @@
 		"labelText"									"7"
 		"font"										"Class Symbols 18"
 		"textAlignment"								"center"
+		"textinsetx"								"0"
 		"use_proportional_insets" 					"1"
 		"dulltext"									"0"
 		"brighttext"								"0"
 		"default"									"0"
 		"paintbackground" 							"0"
 		"Command"									"loadout medic"
-		
+
 		"paintbackground"							"0"
 		"paintborder"								"0"
-		
+
 		"defaultFgColor_override"					"GrayLight"
 		"armedFgColor_override" 					"WhiteGray"
 		"depressedFgColor_override" 				"GrayLight"
-		
+
 		"pin_to_sibling" 							"CustomEngineerSide"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
@@ -925,7 +930,7 @@
 		"Command"									"loadout medic"
 		"visible"									"1"
 	}
-	
+
 	"CustomSniperSide"
 	{
 		"ControlName"								"CExImageButton"
@@ -942,20 +947,21 @@
 		"labelText"									"8"
 		"font"										"Class Symbols 18"
 		"textAlignment"								"center"
+		"textinsetx"								"0"
 		"use_proportional_insets" 					"1"
 		"dulltext"									"0"
 		"brighttext"								"0"
 		"default"									"0"
 		"paintbackground"							"0"
 		"Command"									"loadout sniper"
-		
+
 		"paintbackground"							"0"
 		"paintborder"								"0"
-		
+
 		"defaultFgColor_override"					"GrayLight"
 		"armedFgColor_override" 					"WhiteGray"
 		"depressedFgColor_override" 				"GrayLight"
-		
+
 		"pin_to_sibling" 							"CustomMedicSide"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
@@ -969,7 +975,7 @@
 		"Command"									"loadout sniper"
 		"visible"									"1"
 	}
-	
+
 	"CustomSpySide"
 	{
 		"ControlName"								"CExImageButton"
@@ -986,20 +992,21 @@
 		"labelText"									"9"
 		"font"										"Class Symbols 18"
 		"textAlignment"								"center"
+		"textinsetx"								"0"
 		"use_proportional_insets" 					"1"
 		"dulltext"									"0"
 		"brighttext"								"0"
 		"default"									"0"
 		"paintbackground" 							"0"
 		"Command"									"loadout spy"
-		
+
 		"paintbackground"							"0"
 		"paintborder"								"0"
-		
+
 		"defaultFgColor_override"					"GrayLight"
 		"armedFgColor_override" 					"WhiteGray"
 		"depressedFgColor_override" 				"GrayLight"
-		
+
 		"pin_to_sibling" 							"CustomSniperSide"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
