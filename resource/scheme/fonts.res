@@ -663,7 +663,7 @@ Scheme
 			"1"
 			{
 				"name"										"Verdana"
-				"tall"										"6"
+				"tall"										"7"
 				"weight"									"0"
 				"additive"									"0"
 				"antialias"									"1"
