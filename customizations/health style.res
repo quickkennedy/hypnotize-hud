@@ -10,4 +10,5 @@
 
 
 #base "../resource/ui/hudplayerhealth_normal.res"			// DEFAULT HP
+//#base "../resource/ui/hudplayerhealth_buff.res"			// DEFAULT HP W/ BUFF
 //#base "../resource/ui/hudplayerhealth_box.res"			// BOX HP
