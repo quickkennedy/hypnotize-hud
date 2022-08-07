@@ -17,13 +17,13 @@ Scheme
 		// INGAME COLORS
 		//=============================================================================
 
-		"Crosshair"											"227 228 230 255"
+		"Crosshair"											"255 255 255 255" //"227 228 230 255"
 		"Crosshair Shadow"									"0 0 0 255"
 		"Crosshair Pulse"									"255 0 0 255"
 		
 		"HitMarker"											"255 0 0 255"
 		
-		"Health Numbers"									"227 228 230 255"
+		"Health Numbers"									"255 255 255 255" //"227 228 230 255"
 		
 		"Shadow"											"0 0 0 175"
 
@@ -35,9 +35,9 @@ Scheme
 		"Low Health Pulse"									"255 0 0 255"
 		"Low Health Spec"									"225 41 41 255"
 		
-		"Ammo In Clip"										"227 228 230 255"
-		"Ammo In Reserve"									"227 228 230 255"
-		"Ammo No Clip"										"227 228 230 255"
+		"Ammo In Clip"										"255 255 255 255" //"227 228 230 255"
+		"Ammo In Reserve"									"255 255 255 255" //"227 228 230 255"
+		"Ammo No Clip"										"255 255 255 255" //"227 228 230 255"
 
 		"Low Ammo In Clip"									"255 50 50 255"
 		"Low Ammo In Clip Pulse"							"255 0 0 255"
@@ -50,7 +50,7 @@ Scheme
 		"Full Ubercharge Pulse"								"80 150 255 255"
 
 		"Heal Numbers"										"0 255 0 255"
-		"Last Damage Done"									"227 228 230 255"
+		"Last Damage Done"									"255 255 255 255" //"227 228 230 255"
 
 		"Health Gained"										"75 210 75 255"
 		"Health Lost"										"255 50 50 255"
@@ -65,8 +65,8 @@ Scheme
 		
 		"Main Theme"										"80 150 255 255"
 		
-		"WhiteLight"										"227 228 230 255"
-		"White"												"227 228 230 255"
+		"WhiteLight"										"255 255 255 255" //"227 228 230 255"
+		"White"												"255 255 255 255" //"227 228 230 255"
 		"WhiteDark"											"172 173 175 255"
 		"WhiteGray"											"127 128 130 255"
 		"GrayLight"											"77 78 82 255"
